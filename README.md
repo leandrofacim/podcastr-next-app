@@ -5,14 +5,14 @@
 ## Podcastr
 
 [![Author](https://img.shields.io/badge/author-leandrofacim-8257E5?style=flat-square)](https://github.com/leandrofacim)
-[![Languages](https://img.shields.io/github/languages/count/leandrofacim/podcastr?color=%238257E5&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/leandrofacim/podcastr?color=8257E5&style=flat-square)](https://github.com/leandrofacim/podcastr-next-app)
+[![Languages](https://img.shields.io/github/languages/count/leandrofacim/podcastr-next-app?color=%238257E5&style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leandrofacim/podcastr-next-app?color=8257E5&style=flat-square)](https://github.com/leandrofacim/podcastr-next-app)
 
 <h4 align="center">
   Podcastr is a platform built for podcast broadcasting.
 </h4>
 
-![Podcastr preview](.github/app-preview.png)
+<!-- ![Podcastr preview](.github/app-preview.png) -->
 
 ## Tecnologies
 
