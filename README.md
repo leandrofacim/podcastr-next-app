@@ -36,7 +36,7 @@ This project was developed using cutting edge front-end technologies.
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
+$ git clone https://github.com/leandrofacim/podcastr.git && cd podcastr
 ```
 
 **Follow the steps below**
