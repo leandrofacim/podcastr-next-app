@@ -58,11 +58,7 @@
   height: 20rem;
   border: 1.5px dashed var(--purple-300);
   border-radius: 1.5rem;
-  background: linear-gradient(
-    143.8deg,
-    rgba(145, 100, 250, 0.8) 0%,
-    rgba(0, 0, 0, 0) 100%
-  );
+  background: linear-gradient(143.8deg, rgba(145, 100, 250, 0.8) 0%, rgba(0,0,0,0) 100%);
 
   padding: 4rem;
   text-align: center;
@@ -108,23 +104,22 @@
     border: 0;
     font-size: 0;
     transition: filter 0.2s;
-
+    
     &:disabled {
       cursor: default;
       opacity: 0.5;
     }
 
     &:hover:not(:disabled) {
-      filter: brightness(0.7);
+      filter: brightness(0.7)
     }
 
     &.isActive {
-      filter: invert(0.35) sepia(1) saturate(3) hue-rotate(100deg);
+      filter: invert(0.35) sepia(1) saturate(3) hue-rotate(100deg)
     }
 
     &.isActive:hover {
-      filter: brightness(0.6) invert(0.35) sepia(1) saturate(3)
-        hue-rotate(100deg);
+      filter: brightness(0.6) invert(0.35) sepia(1) saturate(3) hue-rotate(100deg);
     }
 
     &.playButton {
@@ -135,7 +130,7 @@
       transition: filter 0.2s;
 
       &:hover {
-        filter: brightness(0.95);
+        filter: brightness(0.95)
       }
     }
   }
